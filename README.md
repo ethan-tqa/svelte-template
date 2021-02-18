@@ -1,6 +1,6 @@
-# New Project
+# Description
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+A template for SPA project, with Svelte, Snowpack 3, TailwindCSS 2, TypeScript.
 
 ## Available Scripts
 
